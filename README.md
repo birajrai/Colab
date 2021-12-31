@@ -7,6 +7,8 @@
  - Optional: Mount GDrive
  - Optional: Use NGROK for SSH
 
+
+** INSTALLATION**
 ```
 1. Go to https://colab.research.google.com/github/birajrai/Colab/blob/main/rdp.ipynb
 2. Start [1] Create User
