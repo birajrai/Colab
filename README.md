@@ -7,3 +7,13 @@
  - Optional: Mount GDrive
  - Optional: Use NGROK for SSH
 
+```
+1. Go to https://colab.research.google.com/github/birajrai/Colab/blob/main/rdp.ipynb
+2. Start [1] Create User
+3. Visit http://remotedesktop.google.com/headless & Get Debian Linux CRP 
+4. Start [2] RDP
+5. Go to https://remotedesktop.google.com/access
+6. Click on Online Icon
+7. Type PinCode from [2] RDP = 123456
+8. Enjoy!!
+```
